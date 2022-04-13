@@ -1,4 +1,4 @@
-package de.shaulen.valkyrie.helper;
+package de.shaulen.ares.helper;
 
 import java.util.Random;
 

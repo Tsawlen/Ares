@@ -11,8 +11,8 @@
 	<groupId>de.shaulen</groupId>
 	<artifactId>valkyrie</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>valkyrie</name>
-	<description>The security module of project yggdrasil</description>
+	<name>ares</name>
+	<description>The security module of project olymp</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
